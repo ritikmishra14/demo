@@ -1,7 +1,7 @@
 class GitCheck {
   void main() {
     String name = "ritik";
-    System.out.println("new repository opened");
+    System.out.println("new repository opened and changed");
   }
 
 }
